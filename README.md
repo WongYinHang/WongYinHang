@@ -1,5 +1,5 @@
 
-## Heyyo, I'm <a href="/" target="_blank">Wong Yin Hang Marco</a>!
+## Hello, I'm <a href="/" target="_blank">Wong Yin Hang Marco</a>!
 (Use dark theme to find my socials ;)
 
 
